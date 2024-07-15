@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=uyyalanaveen&label=Profile%20views&color=0e75b6&style=flat" alt="uyyalanaveen" /> </p>
 
-- 🌱 I’m currently learning **React js , android dev**
+- 🌱 I’m currently learning **React js **
 
 - 📫 How to reach me **uyyalanaveenedu@gmail.com**
 
